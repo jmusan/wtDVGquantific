@@ -1,0 +1,1 @@
+Figures will automatically be saved in this folder
